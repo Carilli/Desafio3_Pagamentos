@@ -1,0 +1,13 @@
+[
+    {
+        "id_produto_venda": 1,
+        "nome": "Notebook",
+        "preco": 3500,
+        "quantidade": 10,
+        "movimentacao_id": 123,
+        "valor": 3500,
+        "status_item": "disponivel",
+        "data_hora": "2023-10-01 12:00:00",
+        "ultima_atualizacao": "2023-10-01 12:00:00"
+    }
+]

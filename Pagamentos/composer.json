@@ -1,0 +1,19 @@
+{
+    "name": "implyestudos/pagamentos"
+,
+    "description": "TokenJWT",
+    "require": {
+        "firebase/php-jwt": "^6.11"
+    },
+    "autoload": {
+        "psr-4": {
+            "Implyestudos\\Pagamentos\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Carilli",
+            "email": "jvcarilli@gmail.com"
+        }
+    ]
+}
